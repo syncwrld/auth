@@ -1,0 +1,4 @@
+name: auth
+version: '${project.version}'
+main: me.syncwrld.streets1.auth.AuthEngine
+api-version: '1.13'

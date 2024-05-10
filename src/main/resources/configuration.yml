@@ -1,0 +1,13 @@
+# StreetAuth (S1) by syncwrld #
+#    www.github.com/syncwrld s #
+
+# Database #
+database:
+  type: 'SQLite' # MySQL, MySQL-Hikari ou SQLite
+  # SQLite #
+  sqlite-file: 'storage/auth.db'
+  # MySQL #
+  host: 'localhost'
+  database: 's1_hub'
+  user: 'root'
+  password: ''
